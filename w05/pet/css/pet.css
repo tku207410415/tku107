@@ -19,4 +19,25 @@ article{
     height: 80px;
     background-color: #914040;  
     }
+nav{
+    margin-top: 170px;
+}
+nav ul{
+    padding: 5px;
+    list-style: none;
+}
+nav ul a{
+    display: block;
+    width: 150px;
+    height: 42px;
+    background-image: url(../images/btn.png);
+    line-height: 35px;
+    text-indent: 50px;
+}
+nav ul a:hover{
+    color: white;
+    background-image: url(../images/btn_hover.png);
+}
+
+
     

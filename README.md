@@ -1,7 +1,7 @@
 # tku107
 
 # Week 1
-* intro.html
+intro.html
 
 # Week 2
 * table.html
@@ -15,5 +15,5 @@
 * ttt.html ttt.css
 * blog.html blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY2NDA2OTRdfQ==
+eyJoaXN0b3J5IjpbMTc2MzIxNzc0OF19
 -->

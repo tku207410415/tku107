@@ -11,9 +11,8 @@
 
 # Week4
 * [ttt.html ttt.css](http://127.0.0.1:1391/tku107/w04/ttt.html)
-* [blog.html blog.css]
-
-* profile
+* [blog.html blog.css](http://127.0.0.1:1391/tku107/w04/blog.html)
+* profile.html profile.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3ODYwMzgwXX0=
+eyJoaXN0b3J5IjpbLTM1MDgzMjQ3NF19
 -->

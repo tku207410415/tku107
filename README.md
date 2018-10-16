@@ -1,10 +1,9 @@
 # tku107
 
 # Week 1
-* [intro.html]
-file:///D:/tku107/w01/intro.html
+* [intro.html](http://127.0.0.1:1391/tku107/w01/intro.html)
 # Week 2
-* table.html
+* [table.html]
 * myclass.html
 
 # Week 3
@@ -15,5 +14,5 @@ file:///D:/tku107/w01/intro.html
 * ttt.html ttt.css
 * blog.html blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0ODQ1NjY3XX0=
+eyJoaXN0b3J5IjpbLTMzMTkzNTY4Nl19
 -->

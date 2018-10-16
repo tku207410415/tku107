@@ -4,9 +4,9 @@
 * [intro.html](http://127.0.0.1:1391/tku107/w01/intro.html)
 # Week 2
 * [table.html]
-
-* myclass.html
-
+(
+* [myclass.html]
+(http://127.0.0.1:1391/tku107/w02/%E8%AA%B2%E8%A1%A8.html)
 # Week 3
 * tku60.html
 * divdemo.html
@@ -15,5 +15,5 @@
 * ttt.html ttt.css
 * blog.html blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg3NzA4NjhdfQ==
+eyJoaXN0b3J5IjpbNzY1NjMwMTUyXX0=
 -->

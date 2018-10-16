@@ -17,9 +17,9 @@
 * [profile.html](http://127.0.0.1:1391/tku107/w04/profile.html)
 # Week5
 * [imagegallery.html](http://127.0.0.1:1391/tku107/w05/imagegallery/imagegallery.html)
-*imagegallery.css
-*[pet.html](http://127.0.0.1:1391/tku107/w05/pet/pet.html)
-
+* imagegallery.css
+* [pet.html](http://127.0.0.1:1391/tku107/w05/pet/pet.html)
+* pet.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzk1NTAzNF19
+eyJoaXN0b3J5IjpbMjE0MjQxNDQwOF19
 -->

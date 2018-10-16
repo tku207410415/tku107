@@ -7,11 +7,11 @@
 * [myclass.html](http://127.0.0.1:1391/tku107/w02/%E8%AA%B2%E8%A1%A8.html)
 # Week 3
 * [tku60.html](http://127.0.0.1:1391/tku107/w03/tku60.html)
-* [divdemo.html]
+* [divdemo.html](http://127.0.0.1:1391/tku107/w03/goal.html)
 
 # Week4
-* ttt.html ttt.css
+* [ttt.html ttt.css](http://127.0.0.1:1391/tku107/w04/blog.html)
 * blog.html blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY0OTM4MzNdfQ==
+eyJoaXN0b3J5IjpbODg5MTA3MjM1XX0=
 -->

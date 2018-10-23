@@ -20,8 +20,10 @@
 * imagegallery.css
 * [pet.html](http://127.0.0.1:1391/tku107/w05/pet/pet.html)
 * pet.css
- # Week6
- *
+# Week6
+*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTUyOTE0MSwyMTQyNDE0NDA4XX0=
+eyJoaXN0b3J5IjpbMTgxNTc3MzgwOSwyMDg1NTI5MTQxLDIxND
+I0MTQ0MDhdfQ==
 -->

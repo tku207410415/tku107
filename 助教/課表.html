@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>我的課表</title>
+    <meta charset="utf-8">
+    <style>
+        body {
+            background-color: firebrick;
+        }
+        
+        table {
+            border: 1px solid;
+            padding: 5px;
+            font-size: 14px;
+            margin-left: 30%;
+            margin-right: 30%;
+        }
+        
+        td {
+            text-align: center;
+            width: 80px;
+            height: 40px;
+            word-break: break-all;
+        }
+        
+        .name {
+            background-color: darkslateblue;
+            color: white;
+            font-size: 18px;
+        }
+        
+        .tablename {
+            background-color: darkblue;
+            color: white;
+            font-size: 18px;
+        }
+        
+        .weekday {
+            background-color: darkturquoise;
+            font-size: 18px;
+        }
+        
+        .number {
+            width: 18px;
+            background-color: chocolate;
+        }
+        
+        .time {
+            background-color: bisque;
+        }
+        
+        .content {
+            background-color: darkseagreen;
+        }
+        
+        .contact {
+            background-color: blueviolet;
+        }
+        
+        .contactinfo {
+            background-color: darkgray;
+            text-align: left;
+            padding-left: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td rowspan="2" colspan="2" class="name">廖偉成</td>
+            <td colspan="6" class="tablename">107年度第1學期課表</td>
+        </tr>
+
+        <tr>
+            <td class="weekday">週一</td>
+            <td class="weekday">週二</td>
+            <td class="weekday">週三</td>
+            <td class="weekday">週四</td>
+            <td class="weekday">週五</td>
+            <td class="weekday">週六</td>
+        </tr>
+
+        <tr>
+            <td class="number">1</td>
+            <td class="time">8:10~9:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td rowspan="1" class="content"> <br> </td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td rowspan="4" class="content">開源軟體實務<br>E213</td>
+
+
+        </tr>
+
+        <tr>
+            <td class="number">2</td>
+            <td class="time">9:10~10:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+
+
+        </tr>
+
+        <tr>
+            <td class="number">3</td>
+            <td class="time">10:10~11:00</td>
+            <td rowspan="1" class="content"> <br> </td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+
+        </tr>
+
+        <tr>
+            <td class="number">4</td>
+            <td class="time">11:10~12:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td rowspan="1" class="content"> <br> </td>
+            <td class="content"></td>
+
+        </tr>
+
+        <tr>
+            <td class="number">5</td>
+            <td class="time">12:10~13:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+
+        </tr>
+
+        <tr>
+            <td class="number">6</td>
+            <td class="time">13:10~14:00</td>
+            <td class="content"></td>
+            <td rowspan="1" class="content"> <br> </td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td rowspan="2" class="content">英文(一)<br>B503</td>
+
+        </tr>
+
+        <tr>
+            <td class="number">7</td>
+            <td class="time">14:10~15:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+
+
+        </tr>
+
+        <tr>
+            <td class="number">8</td>
+            <td class="time">15:10~16:00</td>
+            <td class="content"></td>
+            <td rowspan="1" class="content"> <br> </td>
+            <td rowspan="1" class="content"><br></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td rowspan="2" class="content">英文(一)<br>V102</td>
+
+        </tr>
+
+        <tr>
+            <td class="number">9</td>
+            <td class="time">16:10~17:00</td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"> <br> </td>
+            <td class="content"></td>
+            <td class="content"></td>
+        </tr>
+
+        <tr>
+            <td class="number">10</td>
+            <td class="time">17:10~18:00</td>
+            <td class="content"></td>
+            <td class="content"> <br> </td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+            <td class="content"></td>
+
+        </tr>
+
+        <tr>
+            <td class="number">11</td>
+            <td class="time">18:10~19:00</td>
+            <td rowspan="3" class="content">計算機概論<br>E410</td>
+            <td class="content">大學學習<br>E401</td>
+            <td rowspan="3" class="content">計算機程式語言<br>E404</td>
+            <td rowspan="2" class="content">全球化發展<br>E401</td>
+            <td rowspan="2" class="content">男女生體育<br></td>
+            <td rowspan="2" class="content">中國語文能力表達<br>B515</td>
+        </tr>
+
+        <tr>
+            <td class="number">12</td>
+            <td class="time">19:10~20:00</td>
+            <td rowspan="3" class="content">靜態網頁設計<br>E213</td>
+        </tr>
+
+        <tr>
+            <td class="number">13</td>
+            <td class="time">20:10~21:00</td>
+            <td class="content"></td>
+            <td class="content">校園與社區服務學習<br></td>
+            <td rowspan="2" class="content">全民國防教育軍事訓練(一)<br>B515</td>
+
+        </tr>
+
+        <tr>
+            <td class="number">14</td>
+            <td class="time">21:10~22:00</td>
+            <td class="content">計算機概論<br>E213</td>
+            <td class="content">計算機程式語言<br>E201</td>
+            <td class="content"></td>
+            <td class="content">靜態網頁設計<br>E213</td>
+
+
+    </table>
+</body>
